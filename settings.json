@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "noaptl22.aternos.me",
+    "ip": "noaptl22.aternos.me,
     "port": 46402,
     "version": "",
     "try-creative": false
